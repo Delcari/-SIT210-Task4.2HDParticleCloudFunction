@@ -1,0 +1,61 @@
+body {
+    background-color: ghostwhite;
+    text-align: center;
+}
+
+header {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color: gainsboro;
+    background-color: black;
+    
+    border-width: 8px 8px 0.1px 8px;
+    border-radius: 80px 80px 0 0;
+    border-style: solid;
+    border-color: gainsboro;
+}
+
+h1 {
+    font-family: Helvetica;
+}
+
+h4 {
+    font-family: Georgia;
+}
+
+#green-container
+{     
+    background-color: #33a532;
+}
+
+#yellow-container
+{  
+    background-color: #f7b500;
+}
+  
+#red-container
+{
+    background-color: #cc0605;
+    
+}
+    
+#form 
+{
+    background-color: black;
+    padding: 10px 0 10px 0;
+    width: 50%;
+    border-width: 0.1px 8px 8px 8px;
+    border-style: solid;
+    border-color: gainsboro;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+    
+input[type=radio] {
+    width: 40px;
+    height: 40px;
+    padding: 100px;
+}
+    
